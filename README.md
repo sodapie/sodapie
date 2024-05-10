@@ -1,4 +1,4 @@
-<h1 align="left">Hi,👋</h1>
+<h1 align="left">Hi!👋</h1>
 <h5 align="left">I'm sodapie, currently learning data science, statistics, and marketing.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodapie&label=Profile%20views&color=0e75b6&style=flat" alt="sodapie" /> </p>
