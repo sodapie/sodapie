@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/sodapie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sodapie" height="30" width="40" /></a>
+<a href="https://share.streamlit.io/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1366779897423810562/kn7ucNPv_400x400.png" alt="sodapie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
